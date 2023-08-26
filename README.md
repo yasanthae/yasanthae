@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yasantha, a passionating <br>
+### <div align="center">I'm Yasantha, a passionating 
 DevOps and Site Reliability Engineering 🚀</div>  
   
 
