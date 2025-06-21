@@ -6,7 +6,7 @@ I love leveraging the best available technology to automate solutions for comple
 
 Why choose one when you can have all three?  
 
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/rishavanand" target="_blank"></a>
 
 ## What I'm passionate about
 <div align="center">  
