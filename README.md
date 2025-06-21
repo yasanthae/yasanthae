@@ -2,9 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I love leveraging the best available technology to automate solutions for complex business problems — delivering simplicity, security, and scalability. Why choose one when you can have all three?</div>  
+I love leveraging the best available technology to automate solutions for complex business problems — delivering simplicity, security, and scalability. 
 
-### DevOps  
+Why choose one when you can have all three?  
+
+What I'm passionate about
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
